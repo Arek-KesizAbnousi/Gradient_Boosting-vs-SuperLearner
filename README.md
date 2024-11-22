@@ -1,5 +1,5 @@
  
-# Gradient Boosting & SuperLearner
+# Evaluation of Boosting Algorithms: XGBoost, LightGBM, AdaBoost, and SuperLearner
 We implement Gradient Boosting & SuperLearner in R and compare the classification accuracy of the two methods.
 
 
